@@ -1,6 +1,9 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [006,1] # Route 101
+Land,20
+    20,ZIGZAGOON,3,6
+    20,BIDOOF,3,6
 #-------------------------------
 [021]
 Land,21
